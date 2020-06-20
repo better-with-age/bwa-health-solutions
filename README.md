@@ -1,7 +1,13 @@
-# Project: heport
-lang: pt-br
+# Project
+heport
 
-Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde. Paradigma de atenção a demandas de saúde em multiespecialidades e multinível de complexidade abrangendo, de forma modular (módulos), múltiplos aspectos do cuidado à saúde:
+# Description
+Lang: pt-br
+
+Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde. Paradigma de subsistema operacional de interface amigável para processos de atenção a demandas de saúde com escopo, especialidade e nível de complexidade múltiplos abrangendo variados aspectos do cuidado à saúde, com arquitetura modular adaptável a demandas e contextos diversos; potencializados por aprendizado de máquina, ciência de dado e outras tecnologias de informação altamente disponíveis ponta a ponta.
+
+# Módulos
+Ambientes que abstraem processos da rotina de profissionais de saúde e gestores de recursos de saúde, como:
     • divulgação conteúdos empíricos e científicos, bem como de produtos e serviços;
     • sala de espera com confirmação e autenticação biométrica (ex. digitais, reconhecimento facial);
     • agendamento (agenda com suporte a funcionalidades cálculo de horas, estimativas de ganhos, datas especiais, condições climáticas vigentes e outras);
