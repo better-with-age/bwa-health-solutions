@@ -4,7 +4,7 @@ heport
 # General description
 Lang: pt-br
 
-Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde com paradigma de 'subsistema operacional' e interface amigável para processos de atenção a demandas de saúde com escopo, especialidade e nível de complexidade múltiplos abrangendo variados aspectos do cuidado à saúde com arquitetura modular adaptável a demandas e cenários diversos; potencializados por aprendizado de máquina, ciência de dados e outras tecnologias capazes de gerar  informação altamente contextualizada, lícita, transparente e legalmente disponível ponta a ponta.
+Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde com paradigma de 'paineis de controle' e interface amigável para processos de atenção a demandas de saúde com escopo, especialidade e nível de complexidade múltiplos abrangendo variados aspectos do cuidado à saúde com arquitetura modular adaptável a demandas e cenários diversos; potencializados por aprendizado de máquina, ciência de dados e outras tecnologias capazes de gerar  informação altamente contextualizada, lícita, transparente e legalmente disponível ponta a ponta.
 
 # Módulos
 Ambientes que abstraem processos da rotina de profissionais de saúde e gestores de recursos de saúde, como:
@@ -37,7 +37,7 @@ Componentes com desenvolvimento e versionamento independentes, como plugins ou a
     » compartilhamento de resultados, presets, parâmetos, cards ou outros dados com indivíduos ou grupos de pacientes, profissionais da plataforma ou da comunidade via redes sociais
     » ferramentas gráficas com potencial impacto sobre decisões terapêuticas ou gerenciais.
 
-# A abstração
+# A abstração: painel
 Os componentes (cards ou widgets) ficam dispostos como registros resumidos e rotulados com tags e apresentando de forma simplificada o(s) atributos definidos como semre visíveis e, apenas quando selecionados expõem todo o seu conteúdo com atributos e funcionalidades ajustáveis. Juntos, os componentes formam um layout flexível compatíveis com presets para determinados tipos atendimento, indivíduo ou grupo em uma ampla mesa de trabalho.
 
 # Sobre os componentes
