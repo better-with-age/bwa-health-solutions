@@ -1,7 +1,6 @@
-# bwa-health-solutions
- Some projects for better with age.
+# Project: heport
+lang: pt-br
 
-# Projeto 'heport': 
 Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde. Paradigma de atenção a demandas de saúde em multiespecialidades e multinível de complexidade abrangendo, de forma modular (módulos), múltiplos aspectos do cuidado à saúde:
     • divulgação conteúdos empíricos e científicos, bem como de produtos e serviços;
     • sala de espera com confirmação e autenticação biométrica (ex. digitais, reconhecimento facial);
