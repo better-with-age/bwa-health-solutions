@@ -1,14 +1,14 @@
 # bwa-health-solutions
  Some projects for better with age.
 
-# Projeto: Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde
-Plataforma colaborativa para atenção a demandas de saúde em multiespecialidades e multinível de complexidade; com módulos de:
-    - divulgação conteúdos empíricos e científicos, bem como de produtos e serviços;
-    - sala de espera com confirmação e autenticação biométrica (ex. digitais, reconhecimento facial);
-    - agendamento (agenda com suporte a funcionalidades cálculo de horas, estimativas de ganhos, datas especiais, condições climáticas vigentes e outras);
-    - escala de profissionais (com suporte a trocas, divisões ao estilo app ‘pega plantão’)
-    - atendimentos com recursos de teleconsultoria, controle de acesso, avaliação por pares, rankeamento e feedback de profissionais e organizações pelos clientes internos e externos
-    - prontuário com «foco assistido» por design minimalista ao estilo 'Kanban' compondo dashboards com componentes multiparamétricos.
+# Projeto 'heport': 
+Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde. Paradigma de atenção a demandas de saúde em multiespecialidades e multinível de complexidade abrangendo, de forma modular (módulos), múltiplos aspectos do cuidado à saúde:
+    • divulgação conteúdos empíricos e científicos, bem como de produtos e serviços;
+    • sala de espera com confirmação e autenticação biométrica (ex. digitais, reconhecimento facial);
+    • agendamento (agenda com suporte a funcionalidades cálculo de horas, estimativas de ganhos, datas especiais, condições climáticas vigentes e outras);
+    • escala de profissionais (com suporte a trocas, divisões ao estilo app ‘pega plantão’)
+    • atendimentos com recursos de teleconsultoria, controle de acesso, avaliação por pares, rankeamento e feedback de profissionais e organizações pelos clientes internos e externos
+    • prontuário com «foco assistido» por design minimalista ao estilo 'Kanban' compondo dashboards com componentes multiparamétricos.
 
 # Componentes multiparamétricos
 Componentes com desenvolvimento e versionamento independentes, como plugins ou ad-ons com suporte a parâmetros e subparâmetros específicos, tais como:
