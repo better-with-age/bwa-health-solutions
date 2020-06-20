@@ -4,7 +4,7 @@ heport
 # Description
 Lang: pt-br
 
-Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde. Paradigma de subsistema operacional de interface amigável para processos de atenção a demandas de saúde com escopo, especialidade e nível de complexidade múltiplos abrangendo variados aspectos do cuidado à saúde, com arquitetura modular adaptável a demandas e contextos diversos; potencializados por aprendizado de máquina, ciência de dado e outras tecnologias de informação altamente disponíveis ponta a ponta.
+Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde com paradigma de 'subsistema operacional' e interface amigável para processos de atenção a demandas de saúde com escopo, especialidade e nível de complexidade múltiplos abrangendo variados aspectos do cuidado à saúde com arquitetura modular adaptável a demandas e cenários diversos; potencializados por aprendizado de máquina, ciência de dados e outras tecnologias capazes de gerar  informação altamente contextualizada e disponível ponta a ponta.
 
 # Módulos
 Ambientes que abstraem processos da rotina de profissionais de saúde e gestores de recursos de saúde, como:
