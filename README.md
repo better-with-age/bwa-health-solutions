@@ -1,5 +1,5 @@
 # Project
-bwa:__*hisense*__ (health improved sense).
+bwa » __*hisense*__ (health improved sense).
 
 # General description
 Lang: pt-br
@@ -15,7 +15,7 @@ Ambientes que abstraem processos da rotina de profissionais de saúde e gestores
 * agendamento (agenda com suporte a funcionalidades cálculo de horas, estimativas de ganhos, datas especiais, condições climáticas vigentes e outras);
 * escala de profissionais (com suporte a trocas, divisões ao estilo app ‘pega plantão’)
 * atendimentos com recursos de teleconsultoria, controle de acesso, avaliação por pares, rankeamento e feedback de profissionais e organizações pelos clientes internos e externos
-* prontuário com «foco assistido» por design minimalista ao estilo 'Kanban' compondo dashboards com componentes multiparamétricos.
+* prontuário com «foco assistido* por design minimalista ao estilo 'Kanban' compondo dashboards com componentes multiparamétricos.
 
 ## hisense:athome
 * Id fácil (reconhecimento de caracteres do documento de identificação para cadastro)
@@ -27,25 +27,25 @@ Ambientes que abstraem processos da rotina de profissionais de saúde e gestores
 
 # Componentes multiparamétricos
 Componentes com desenvolvimento e versionamento independentes, como plugins ou ad-ons com suporte a parâmetros e subparâmetros específicos, tais como:
-*(») dados de identificação;
-*(») pendências classificáveis em níveis de prioridade;
-*(») notas e alertas;
-*(») agenda dieta, sono e outras atividades;
-*(») parâmetros monitorados e curvas métricas (pa, temperatura, dextro etc.);
-*(») ferramentas úteis por especialidade (ex medicina de família - episódios de cuidado, genograma, grafos(*), linhas temporais e ecomapa), mas que podem ser utilizadas por qualquer profissional;
-*(») radar epidemiológico;
-*(») escores de risco, vulnerabilidade etc.;
-*(») laudos automatizados;
-*(») histórico de exames;
-*(») interações medicamentosas;
-*(») canais de comunicação com pacientes (telemedicina);
-*(») conectividade remota com dispositivos IoT (Internet of Things)
-*(») biometria otimizada por IA (Inteligência Artificial)
-*(») buscas automatizadas em bases indexadas de evidências por papers, pré-prints e publicações compartilhadas por outros usuários da plataforma que sejam relevantes para cada caso clínico (filtro por palavras-chave)
-*(») tabelas de procedimentos
-*(») testagem de hipóteses casuísticas
-*(») compartilhamento de resultados, presets, parâmetos, cards ou outros dados com indivíduos ou grupos de pacientes, profissionais da plataforma ou da comunidade via redes sociais
-*(») ferramentas gráficas com potencial impacto sobre decisões terapêuticas ou gerenciais.
+* dados de identificação;
+* pendências classificáveis em níveis de prioridade;
+* notas e alertas;
+* agenda dieta, sono e outras atividades;
+* parâmetros monitorados e curvas métricas (pa, temperatura, dextro etc.);
+* ferramentas úteis por especialidade (ex medicina de família - episódios de cuidado, genograma, grafos(*), linhas temporais e ecomapa), mas que podem ser utilizadas por qualquer profissional;
+* radar epidemiológico;
+* escores de risco, vulnerabilidade etc.;
+* laudos automatizados;
+* histórico de exames;
+* interações medicamentosas;
+* canais de comunicação com pacientes (telemedicina);
+* conectividade remota com dispositivos IoT (Internet of Things)
+* biometria otimizada por IA (Inteligência Artificial)
+* buscas automatizadas em bases indexadas de evidências por papers, pré-prints e publicações compartilhadas por outros usuários da plataforma que sejam relevantes para cada caso clínico (filtro por palavras-chave)
+* tabelas de procedimentos
+* testagem de hipóteses casuísticas
+* compartilhamento de resultados, presets, parâmetos, cards ou outros dados com indivíduos ou grupos de pacientes, profissionais da plataforma ou da comunidade via redes sociais
+* ferramentas gráficas com potencial impacto sobre decisões terapêuticas ou gerenciais.
 
 # A abstração: painel
 Os componentes (cards ou widgets) ficam dispostos como registros resumidos e rotulados com tags e apresentando de forma simplificada o(s) atributos definidos como semre visíveis e, apenas quando selecionados expõem todo o seu conteúdo com atributos e funcionalidades ajustáveis. Juntos, os componentes formam um layout flexível compatíveis com presets para determinados tipos atendimento, indivíduo ou grupo em uma ampla mesa de trabalho.
