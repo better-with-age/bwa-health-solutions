@@ -9,7 +9,8 @@ Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente d
 # Módulos
 Ambientes que abstraem processos da rotina de profissionais de saúde e gestores de recursos de saúde, como:
 
-## hisense:atwork
+## hisense: atwork
+Para gestão e atendimentos.
 * divulgação conteúdos empíricos e científicos, bem como de produtos e serviços;
 * sala de espera com confirmação e autenticação biométrica (ex. digitais, reconhecimento facial);
 * agendamento (agenda com suporte a funcionalidades cálculo de horas, estimativas de ganhos, datas especiais, condições climáticas vigentes e outras);
@@ -17,7 +18,8 @@ Ambientes que abstraem processos da rotina de profissionais de saúde e gestores
 * atendimentos com recursos de teleconsultoria, controle de acesso, avaliação por pares, rankeamento e feedback de profissionais e organizações pelos clientes internos e externos
 * prontuário com «foco assistido* por design minimalista ao estilo 'Kanban' compondo dashboards com componentes multiparamétricos.
 
-## hisense:athome
+## hisense: athome
+Para atendimentos domiciliares.
 * Id fácil (reconhecimento de caracteres do documento de identificação para cadastro)
 * Proporcionar uma experiência com o menor atrito possível.
 * Monitoramento de qualquer parâmetro com seleção nas fotos, gráficos de parâmetros numéricos
