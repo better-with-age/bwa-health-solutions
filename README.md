@@ -1,19 +1,29 @@
 # Project
-bwa:asense
+bwa:__*hisense*__ (health improved sense).
 
 # General description
 Lang: pt-br
 
-Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde com paradigma de 'paineis de controle' e interface amigável para processos de atenção a demandas de saúde com escopo, especialidade e nível de complexidade múltiplos abrangendo variados aspectos do cuidado à saúde com arquitetura modular adaptável a demandas e cenários diversos; potencializados por aprendizado de máquina, ciência de dados e outras tecnologias capazes de gerar  informação altamente contextualizada, lícita, transparente e legalmente disponível ponta a ponta.
+Plataforma Colaborativa de Suporte a Decisões Clínicas e Gestão Inteligente de Recursos para Saúde com paradigma de 'paineis de controle' e interface amigável para processos de atenção a demandas de saúde com escopo, especialidade e nível de complexidade múltiplos abrangendo variados aspectos do cuidado à saúde com arquitetura modular adaptável a demandas e cenários diversos; potencializados por aprendizado de máquina, ciência de dados e outras tecnologias capazes de gerar  informação altamente contextualizada, lícita, transparente e legalmente disponível ponta a ponta. PWA Rogressive Web App - menos recursos nativos, mais leve, não precisa instalar ou atualizar, não vale o custo em desenvolvimento e manutenção de um App Nativo além de investimento em marketing pois pessoas passam 80% em 3 Apps Top Mind.
 
 # Módulos
 Ambientes que abstraem processos da rotina de profissionais de saúde e gestores de recursos de saúde, como:
-    • divulgação conteúdos empíricos e científicos, bem como de produtos e serviços;
-    • sala de espera com confirmação e autenticação biométrica (ex. digitais, reconhecimento facial);
-    • agendamento (agenda com suporte a funcionalidades cálculo de horas, estimativas de ganhos, datas especiais, condições climáticas vigentes e outras);
-    • escala de profissionais (com suporte a trocas, divisões ao estilo app ‘pega plantão’)
-    • atendimentos com recursos de teleconsultoria, controle de acesso, avaliação por pares, rankeamento e feedback de profissionais e organizações pelos clientes internos e externos
-    • prontuário com «foco assistido» por design minimalista ao estilo 'Kanban' compondo dashboards com componentes multiparamétricos.
+
+## hisense:atwork
+    * divulgação conteúdos empíricos e científicos, bem como de produtos e serviços;
+    * sala de espera com confirmação e autenticação biométrica (ex. digitais, reconhecimento facial);
+    * agendamento (agenda com suporte a funcionalidades cálculo de horas, estimativas de ganhos, datas especiais, condições climáticas vigentes e outras);
+    * escala de profissionais (com suporte a trocas, divisões ao estilo app ‘pega plantão’)
+    * atendimentos com recursos de teleconsultoria, controle de acesso, avaliação por pares, rankeamento e feedback de profissionais e organizações pelos clientes internos e externos
+    * prontuário com «foco assistido» por design minimalista ao estilo 'Kanban' compondo dashboards com componentes multiparamétricos.
+
+## hisense:athome
+    * Id fácil (reconhecimento de caracteres do documento de identificação para cadastro)
+    * Proporcionar uma experiência com o menor atrito possível.
+    * Monitoramento de qualquer parâmetro com seleção nas fotos, gráficos de parâmetros numéricos
+    * Medicações - fotos com propriedades organolépticas dos medicamentos efetivamente em uso, com interações e preços por APIs de associados para permitir custeio, receita pictográfica online até expirar com link compartilhável por QRcode, WhatsApp, SMS etc.
+    * Consumo de APIs locais e nacionais (ex. Lacen, DataSUS, Correios)
+    * Solicitar laudo: laudo automático, laudo profissional ($) - qto mais rápido, menos é descontado pela plataforma
 
 # Componentes multiparamétricos
 Componentes com desenvolvimento e versionamento independentes, como plugins ou ad-ons com suporte a parâmetros e subparâmetros específicos, tais como:
